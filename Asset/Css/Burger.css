@@ -1,0 +1,47 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    /*background-color: #04202e;*/
+}
+
+h1{
+    text-align:center;
+}
+
+a {
+    text-decoration:none;
+    color:white;
+}
+
+
+
+a {
+    text-decoration:none;
+    color:white;
+    
+}
+
+a:hover {
+    text-decoration:none;
+    color:white;
+}
+
+.buton-center {
+    text-align:center;
+    align-items:center;
+}
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+
+
+td, th{
+    border: 1px solid black !important;
+    padding: 10px !important;
+}
+
+tr td {
+    text-align:center !important;
+}
+
+h4 {
+    text-align:center;
+}
+
+table {
+    margin : 100px auto auto auto;
+    }
+
+
+.qte {
+    width:50px;
+    text-align:center;
+}
+
+.corbeille {
+    width:30px;
+}
